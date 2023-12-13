@@ -11,6 +11,8 @@ scikit-learn = "*"
 matplotlib = "*"
 seaborn = "*"
 japanize-matplotlib = "*"
+mlflow = "*"
+tqdm = "*"
 
 [dev-packages]
 ipykernel = "*"
