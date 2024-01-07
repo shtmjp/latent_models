@@ -13,6 +13,8 @@ seaborn = "*"
 japanize-matplotlib = "*"
 mlflow = "*"
 tqdm = "*"
+statsmodels = "*"
+hmmlearn = "*"
 
 [dev-packages]
 ipykernel = "*"
